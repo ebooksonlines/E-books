@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://sitemaps.org">
 
-  <!-- Página Inicial -->
+  <!-- Página Iniciall -->
   <url>
     <loc>https://ebooksonlines.github.io/E-books/.html</loc>
     <lastmod>2026-09-03</lastmod>
@@ -20,7 +20,16 @@
   </url>
 
 </urlset>
-
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta name="google-site-verification" content="s1gPojxioxLiYcJ3Dd-wD9M3z6-2yG5KeG1Wc6_VmAU" />
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>E-books Onlines — 6 Guias Práticos por R$5,00</title>
+<meta name="description" content="Foco Total, Vendas na Prática, Telas Sono e Sol, Mãe que Vence, Hábitos que Transformam e Mentalidade Forte — e-books completos por apenas R$5,00 cada.">
+<link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700;800&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
   :root{
     --bg:#0b0b0c;
