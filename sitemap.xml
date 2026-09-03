@@ -1,21 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://sitemaps.org">
 
-  <!-- Página Inicial -->
+  <!-- Página Inicial (Raiz do repositório) -->
   <url>
-    <loc>https://ebooksonlines.github.io/E-books/.html</loc>
+    <loc>https://ebooksonlines.github.io/ebooks/</loc>
     <lastmod>2026-09-03</lastmod>
+    <priority>1.0</priority>
   </url>
 
-  <!-- Página Quem Somos -->
-  <url>
-    <loc>https://ebooksonlines.github.io/E-books/.html</loc>
-    <lastmod>2026-09-03</lastmod>
-  </url>
-
-  <!-- Página de Contato -->
-  <url>
-    <loc>https://ebooksonlines.github.io/E-books/.html</loc>
-    <lastmod>2026-09-03</lastmod>
-  
-  </url>
+</urlset>
