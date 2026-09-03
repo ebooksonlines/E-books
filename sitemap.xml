@@ -1,5 +1,22 @@
- <meta name="google-site-verification" content="s1gPojxioxLiYcJ3Dd-wD9M3z6-2yG5KeG1Wc6_VmAU" />
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700;800&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://sitemaps.org">
+
+  <!-- Página Inicial -->
+  <url>
+    <loc>https://ebooksonlines.github.io/E-books/</loc>
+    <lastmod>2026-09-03</lastmod>
+  </url>
+
+  <!-- Página Quem Somos -->
+  <url>
+    <loc>https://ebooksonlines.github.io/E-books/#produtos</loc>
+    <lastmod>2026-09-03</lastmod>
+  </url>
+
+  <!-- Página de Contato -->
+  <url>
+    <loc>https://ebooksonlines.github.io/E-books/</loc>
+    <lastmod>2026-08-02</lastmod>
+  </url>
+
+</urlset>
